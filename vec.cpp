@@ -1,7 +1,8 @@
 
-//Author: Gordon Griesel
-//Date: July 8, 2017
-//Purpose: Framework for coding exam
+//Author: Christian Russell
+//Original framework by Gordon Griesel
+//Date: July 11, 2017
+//Purpose: Coding exam
 //
 //See instructions to produce a unit-test for the vecNormalize function.
 //
