@@ -1,5 +1,10 @@
 #ifdef UNIT_TEST
 
+//Author: Christian Russell
+//Original framework by Gordon Griesel
+//Date: July 11, 2017
+//Purpose: Coding exam
+
 #include <stdlib.h>
 #include <stdio.h>
 #include <math.h>
